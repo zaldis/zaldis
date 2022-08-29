@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5ea2bf20-34e3-4311-9635-fd7961af3f4b" data-share-badge-host="https://www.credly.com"></div>
+
+[AWS bage](https://www.credly.com/badges/5ea2bf20-34e3-4311-9635-fd7961af3f4b/public_url)
+
 <!--
 **zaldis/zaldis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
