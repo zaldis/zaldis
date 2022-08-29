@@ -8,7 +8,7 @@
 
 ### My achievements:
 [
-  ![bage image](aws-certified-solutions-architect-associate.png)
+  ![bage image](aws-certified-solutions-architect-associate-small.png)
 ](https://www.credly.com/badges/5ea2bf20-34e3-4311-9635-fd7961af3f4b/public_url)
 
 <!--
