@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Gym network
+- 🔭 I’m currently working on friendly NeoVim configuration for Python Devs
 - 🌱 I’m currently learning economy and finance
 - 📫 How to reach me: 
     - Email: denys.zaluzhnyi@gmail.com
