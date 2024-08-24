@@ -6,14 +6,21 @@
     - Email: denys.zaluzhnyi@gmail.com
     - Telegram: @zaldis99
 
-### My achievements:
-[
-  ![bage image](aws-certified-solutions-architect-associate-small.png)
-](https://www.credly.com/badges/5ea2bf20-34e3-4311-9635-fd7961af3f4b/public_url)
+### Achievements:
+<p align="center">
+  <a href="https://www.credly.com/badges/4b2b1255-150d-44a4-b577-422443e9c580/public_url">
+    <img src="https://images.credly.com/size/220x220/images/4f17161c-0357-416f-8507-04f4517b1c2f/image.png" alt="API security badge" />
+  </a>
 
-[![Zaldis GitHub stats](https://github-readme-stats.vercel.app/api?username=zaldis&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://www.credly.com/badges/5ea2bf20-34e3-4311-9635-fd7961af3f4b/public_url">
+    <img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS badge" />
+  </a>
+</p>
 
+
+### Statistic
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaldis)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **zaldis/zaldis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
