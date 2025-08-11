@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on friendly NeoVim configuration for Python Devs
-- 🌱 I’m currently learning economy and finance
+- 🔭 I'm building a repository of essential algorithms and data structures for interview preparation.
+- 🌱 I’m currently learning economy and finance.
 - 📫 How to reach me: 
     - Email: denys.zaluzhnyi@gmail.com
     - Telegram: @zaldis99
@@ -36,8 +36,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/zaldis/count.svg" />
-</p>
