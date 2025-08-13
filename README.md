@@ -17,6 +17,11 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://credentials.databricks.com/32edade1-8500-429f-8d26-cd4d42e25376#acc.rySEcRAm">
+    <img width="200" src="https://templates.images.credential.net/1706553228549411657404043064415.png" />
+  </a>
+</p>
 
 ### Statistic
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaldis)](https://github.com/anuraghazra/github-readme-stats)
