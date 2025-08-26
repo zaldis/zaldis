@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning economy and finance.
 - 📫 How to reach me: 
     - Email: denys.zaluzhnyi@gmail.com
-    - Telegram: @zaldis99
+    - Telegram: @zaldis
 
 ### Achievements:
 <p align="center">
